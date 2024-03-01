@@ -1,5 +1,5 @@
 <b>Sinewz</b>
-You can contact me via email at hsommer919@gmail.com
+<p>You can contact me via email at hsommer919@gmail.com</p>
 I specialize in Python
 
 <!---
